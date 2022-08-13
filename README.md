@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="100"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/yufei-flora-wu-863288133/">
