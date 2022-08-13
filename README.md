@@ -1,5 +1,3 @@
-# FloraYufeiWu
-Config files for my GitHub profile.
 - 👋 Hi, I’m @feiw101
 - 👀 I’m interested in how coding works
 - 🌱 I’m currently learning Javascript
