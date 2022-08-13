@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="200"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/yufei-flora-wu-863288133/">
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QPUwZQSbYbt7gjjifj/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
